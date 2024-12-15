@@ -1,0 +1,16 @@
+id,industry,trend,impact
+1,Technology,"Artificial Intelligence and Machine Learning",9.5
+2,Technology,"Cloud Computing and Edge Computing",9.0
+3,Technology,"Cybersecurity and Data Privacy",9.2
+4,Technology,"Internet of Things (IoT)",8.7
+5,Healthcare,"Telemedicine and Remote Patient Monitoring",9.3
+6,Healthcare,"Personalized Medicine and Genomics",8.8
+7,Finance,"Blockchain and Cryptocurrency",8.5
+8,Finance,"Robo-advisors and Automated Investing",8.0
+9,Marketing,"Influencer Marketing and Social Commerce",8.2
+10,Marketing,"Voice Search and Conversational AI",8.4
+11,Business,"Remote Work and Distributed Teams",9.1
+12,Business,"Sustainability and Green Business Practices",8.6
+13,Engineering,"3D Printing and Additive Manufacturing",8.3
+14,Engineering,"Renewable Energy Technologies",8.9
+15,Science,"CRISPR and Gene Editing",9.4

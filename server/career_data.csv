@@ -1,0 +1,16 @@
+id,career,required_skills,average_salary,job_growth,industry
+1,"Data Scientist","python,data analysis,machine learning,statistics,sql,big data",135000,31.4,Technology
+2,"Full Stack Web Developer","javascript,react,html,css,node.js,git,restful apis",105000,13.2,Technology
+3,"Project Manager","project management,agile,scrum,leadership,communication,risk management",110000,11.4,Business
+4,"Digital Marketing Specialist","marketing,social media,content creation,seo,analytics,email marketing",75000,10.5,Marketing
+5,"Financial Analyst","financial analysis,excel,accounting,risk assessment,forecasting,bloomberg terminal",95000,10.8,Finance
+6,"Software Engineer","java,python,algorithms,data structures,software design,git",120000,21.5,Technology
+7,"UX/UI Designer","ux design,user research,wireframing,prototyping,adobe xd,figma",95000,13.9,Technology
+8,"Cybersecurity Analyst","cybersecurity,network security,penetration testing,cryptography,incident response",105000,31.2,Technology
+9,"Sales Manager","sales,negotiation,crm software,lead generation,client relationship management",100000,7.1,Business
+10,"Mechanical Engineer","mechanical engineering,autocad,solidworks,thermodynamics,fluid mechanics",88000,4.0,Engineering
+11,"Data Analyst","sql,excel,data visualization,statistics,python,tableau",75000,25.8,Technology
+12,"Product Manager","product development,market research,agile,user stories,roadmapping",115000,10.1,Business
+13,"Cloud Solutions Architect","aws,azure,cloud migration,containerization,serverless computing",140000,15.7,Technology
+14,"Biomedical Engineer","biology,medical device design,clinical trials,matlab,biomechanics",92000,5.0,Healthcare
+15,"Environmental Scientist","environmental assessment,gis,data analysis,field work,research methods",76000,8.4,Science
