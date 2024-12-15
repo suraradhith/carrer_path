@@ -1,0 +1,78 @@
+/* App.css */
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 900px;
+}
+
+h1 {
+    color: #2c3e50;
+    font-weight: 700;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) !important;
+}
+
+.card-title {
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+.list-group-item {
+    border: none;
+    padding: 0.75rem 1.25rem;
+    background-color: transparent;
+}
+
+.badge {
+    font-size: 0.9em;
+}
+
+h3 {
+    font-weight: 700;
+    color: #2c3e50;
+    margin-bottom: 1rem;
+}
+
+.progress {
+    height: 10px;
+    border-radius: 5px;
+}
+
+.analysis-results {
+    opacity: 0;
+    animation: fadeIn 1s ease-out forwards;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.btn-primary {
+    background-color: #3498db;
+    border-color: #3498db;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
